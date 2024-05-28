@@ -1,0 +1,8 @@
+-> tiene que existir un user 
+-> se crea un post (vinculado al id del user)
+-> se puede crear tag(vinculado al id del post)
+
+-> se crea album (vinculado al id del user)
+-> se sube foto (vinculado al id del post y al id del album)
+
+-> se puede crear un comment (vinculado al id del post)
