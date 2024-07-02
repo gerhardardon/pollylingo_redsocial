@@ -3,7 +3,7 @@
 **Curso: Seminario de sistemas 1
 Universidad de San Carlos de Guatemala** 
 
-Este proyecto fue realizado en grupos de tres personas, consiste en el desarrollo de una aplicacion web para el aprendizaje de idiomas en apoyo a los estudiantes de CALUSAC.
+Este proyecto fue realizado en grupos de tres personas, consiste en el desarrollo de una aplicacion web para el aprendizaje de idiomas en apoyo a los estudiantes de la Ecuela de Aprendizaje de Lenguas de La Universidad San Carlos de Guatemala CALUSAC.
 Podra ver mas informacion sobre la interfaz y el uso del mismo leer **"users manual.pdf"** en el repositorio
 
 Esta aplicacion web consiste de la creacion y comentarios de posts de distintos idiomas, permitiendo la traduccion y la lectura del texto utilizando servicios de Amazon AWS. 
